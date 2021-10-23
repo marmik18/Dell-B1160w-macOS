@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Dell B1160</string>
+	<string>Dell B1160w</string>
+	<string>Dell B1260dn</string>
+	<string>Dell B1265dnf</string>
+	<string>Dell 1230c</string>
+	<string>Dell 1235cn</string>
+	<string>Dell 2145cn</string>
+	<string>Dell 1135n</string>
+	<string>Dell 1133</string>
+	<string>Dell 1130n</string>
+	<string>Dell 1130</string>
+	<string>Dell 2335dn</string>
+	<string>Dell 2355dn</string>
+	<string>Dell 5330dn</string>
+</array>
+</plist>

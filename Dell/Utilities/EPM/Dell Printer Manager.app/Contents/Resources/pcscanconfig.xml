@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pcscansettings>
+  <applicationlist>
+    <application id="Photoshop.exe" isdefault="1" nameonly="">
+      <name>Adobe Photoshop7</name>
+      <location>C:\Program Files\Adobe\Photoshop 7.0\Photoshop.exe</location>
+      <cmdline>[IMG::PATH]</cmdline>
+    </application>
+    <application id="excel.exe" isdefault="1" nameonly="1">
+      <name>Microsoft Excel</name>
+      <location>C:\PROGRA~1\MICROS~2\Office12\EXCEL.EXE</location>
+      <cmdline>[IMG::PATH]</cmdline>
+    </application>
+    <application id="powerpnt.exe" isdefault="1" nameonly="1">
+      <name>Microsoft PowerPoint</name>
+      <location>C:\PROGRA~1\MICROS~2\Office12\POWERPNT.EXE</location>
+      <cmdline>[IMG::PATH]</cmdline>
+    </application>
+    <application id="winword.exe" isdefault="1" nameonly="1">
+      <name>Microsoft Word</name>
+      <location>C:\PROGRA~1\MICROS~2\Office12\WINWORD.EXE</location>
+      <cmdline>[IMG::PATH]</cmdline>
+    </application>
+    <application id="AcroRd32.exe" isdefault="1" nameonly="">
+      <name>Adobe Acrobat Reader</name>
+      <location>C:\Program Files\Adobe\Reader 9.0\Reader\AcroRd32.exe</location>
+      <cmdline>[IMG::PATH]</cmdline>
+    </application>
+    <application id="mspaint.exe" isdefault="1" nameonly="">
+      <name>Microsoft Paint</name>
+      <location>C:\WINDOWS\System32\mspaint.exe</location>
+      <cmdline>[IMG::PATH]</cmdline>
+    </application>
+    <application id="ImageEditor.exe" isdefault="1" nameonly="1">
+      <name>SmarThru</name>
+      <location>C:\Program Files\SmarThru 4\ImageEditor.exe</location>
+      <cmdline>[IMG::PATH]</cmdline>
+    </application>
+    <application id="STOCmdLauncher.exe" isdefault="1" nameonly="1">
+      <name>SmarThru Office</name>
+      <location>C:\Program Files\SmarThru Office\STOCmdLauncher.exe</location>
+      <cmdline>[IMG::PATH]</cmdline>
+    </application>
+  </applicationlist>
+  <profiles>
+    <profile name="Default" supported="1">
+      <basic>
+        <imagetype>COLOR_TRUE</imagetype>
+        <resolution>DPI_300</resolution>
+        <scansize>
+	  <type>SIZE_A4</type>
+	  <orientation>ORIENTATION_SIDEWAY</orientation>
+	</scansize>
+        <duplex>DUPLEX_OFF</duplex>
+        <saveto>C:\Documents and Settings\test\My Documents\My Pictures</saveto>
+        <format>
+          <type>FORMAT_BMP</type>
+          <prefix>SCAN</prefix>
+          <decoration>0</decoration>
+          <quality comment="TBD : for JPEG only">0</quality>
+        </format>
+        <ocr>
+	<enabled>0</enabled>
+	<ocrlanguage comment="refer IDs_Option.xml about value">1</ocrlanguage>
+	<ocrformat comment="refer IDs_Option.xml about value">48</ocrformat>
+        <deleteonocr>0</deleteonocr>
+	</ocr>
+        <actionaftersaving>
+          <type comment="it can be NONE or MYDOC, refer ScanFax2PC_XML_format">NONE</type>
+	  <toemail>0</toemail>
+	  <notify comment="if type is NONE, it should be 0">0</notify>
+          <application>mspaint.exe</application>
+        </actionaftersaving>
+      </basic>
+      <imagesetup>
+        <enhancements>
+          <descreen>0</descreen>
+          <fringescreen>0</fringescreen>
+          <autoexposure>0</autoexposure>
+          <autocolorbalance>0</autocolorbalance>
+          <backgroundremoval>
+            <enabled>0</enabled>
+            <type>Auto</type>
+            <amount>50</amount>
+          </backgroundremoval>
+        </enhancements>
+        <imageadjustment>
+          <autocrop>0</autocrop>
+          <autostraighten>0</autostraighten>
+          <autorotation>
+            <enabled>0</enabled>
+	    <ltor new="1">0</ltor>
+            <type>Auto</type>
+          </autorotation>
+          <blankpagedetection>
+            <enabled>0</enabled>
+            <type new="1">0</type>
+          </blankpagedetection>
+          <barcodeseparation>0</barcodeseparation>
+          <watermark>
+            <enabled>0</enabled>
+            <type>text</type>
+            <info>
+              <texts>
+                <selected></selected>
+                <text></text>
+              </texts>
+              <font></font>
+              <size></size>
+              <color></color>
+              <style></style>
+              <shade></shade>
+              <angle comment="angel string to angle">
+                <type></type>
+                <amount></amount>
+              </angle>
+              <imagefile></imagefile>
+              <firstpageonly>0</firstpageonly>
+            </info>
+          </watermark>
+        </imageadjustment>
+      </imagesetup>
+    </profile>
+  </profiles>
+</pcscansettings>

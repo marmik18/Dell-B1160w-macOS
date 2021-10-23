@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StatusMonitorInfo>
+<HTML>
+	<Default>
+		<help>start_here.htm</help>
+	</Default>
+	<tsa>
+		<help>manual/error.htm</help>
+	</tsa>
+	<cpj>
+		<help>manual/jam.htm</help>
+	</cpj>
+	<rdt>
+		<help>manual/tonerlow.htm</help>
+	</rdt>
+	<ret>
+		<help>manual/replacetoner.htm</help>
+	</ret>
+	<rei>
+		<help>manual/replaceimg.htm</help>
+	</rei>
+	<cci>
+		<help>manual/error.htm</help>
+	</cci>
+	<pcp>
+		<help>manual/offline.htm</help>
+	</pcp>
+
+</HTML>
+</StatusMonitorInfo>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>ML-371x Series</string>
+	<string>ML-331x Series</string>
+	<string>ML-451x 501x Series</string>
+	<string>CLP-775 Series</string>
+	<string>CLP-770 Series</string>
+	<string>ML-1865W Series</string>
+	<string>ML-8850 8950 Series</string>
+	<string>ML-8x00 Series</string>
+	<string>SCX-483x 5x3x Series</string>
+	<string>SCX-5635 Series</string>
+</array>
+</plist>

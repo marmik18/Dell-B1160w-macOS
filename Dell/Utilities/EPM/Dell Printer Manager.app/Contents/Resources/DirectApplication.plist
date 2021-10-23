@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Scan Assistant</key>
+	<dict>
+		<key>ApplicationName</key>
+		<string>Scan</string>
+		<key>FilePath</key>
+		<string>/Applications/VendorNm/Scan Assistant.app</string>
+		<key>ImageName</key>
+		<string>bottommenu_icon_scan</string>
+	</dict>
+	<key>SyncThru Web Service</key>
+	<dict>
+		<key>ApplicationName</key>
+		<string>SyncThru Web Service</string>
+		<key>FilePath</key>
+		<string>/Applications/VendorNm/Scan Assistant.app</string>
+		<key>ImageName</key>
+		<string>bottommenu_icon_sws</string>
+	</dict>
+	<key>Easy Color Manager</key>
+	<dict>
+		<key>ApplicationName</key>
+		<string>Easy Color Manager</string>
+		<key>FilePath</key>
+		<string>/Applications/VendorNm/VendorNm Easy Color Manager.app</string>
+		<key>ImageName</key>
+		<string>bottommenu_ecm_</string>
+	</dict>
+</dict>
+</plist>

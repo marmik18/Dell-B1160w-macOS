@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AUTO_UPDATE_LANGUAGE_FILE</key>
+	<string>1</string>
+	<key>BuildMachineOSBuild</key>
+	<string>10K549</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>Dell Printer Manager</string>
+	<key>CFBundleGetInfoString</key>
+	<string>(C) 2013 Dell Inc. All rights reserved.</string>
+	<key>CFBundleIconFile</key>
+	<string>icon_IDS</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.Dell.PrinterManager</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Dell Printer Manager</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.03.33</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>2016-12-07</string>
+	<key>CHECK_IDS_XML_VERSION</key>
+	<string>1</string>
+	<key>DEBUG_VALUE</key>
+	<string>0</string>
+	<key>DRS_SUPPORTED</key>
+	<string>0</string>
+	<key>DTCompiler</key>
+	<string>4.0</string>
+	<key>DTPlatformBuild</key>
+	<string>10M2518</string>
+	<key>DTPlatformVersion</key>
+	<string>PG</string>
+	<key>DTSDKBuild</key>
+	<string>8S2167</string>
+	<key>DTSDKName</key>
+	<string>macosx10.4</string>
+	<key>DTXcode</key>
+	<string>0400</string>
+	<key>DTXcodeBuild</key>
+	<string>10M2518</string>
+	<key>FAX2PC_SUPPORTED_VERSIONS</key>
+	<array>
+		<string>2.0</string>
+	</array>
+	<key>IDS_XML_VERSIONS_SUPPORTED</key>
+	<array>
+		<string>1.00</string>
+		<string>1.01</string>
+	</array>
+	<key>MODEL_INFO_PATH</key>
+	<string>./</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>(C) 2013 Dell Inc. All rights reserved.</string>
+	<key>NSMainNibFile</key>
+	<string>MainMenu</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>Order Supplies</key>
+	<string>1</string>
+	<key>Printer Application</key>
+	<string>1</string>
+	<key>PrinterApplicationName</key>
+	<string>Dell Support Page</string>
+	<key>PrinterSite</key>
+	<string>http://www.support.dell.com</string>
+	<key>SCAN2PC_SUPPORTED_VERSIONS</key>
+	<array>
+		<string>2.1</string>
+		<string>2.0</string>
+	</array>
+	<key>USE_SETTINGS_FILE</key>
+	<string>0</string>
+	<key>Vendor</key>
+	<string>Dell</string>
+	<key>WRITE_SETTINGS_FILE</key>
+	<string>0</string>
+</dict>
+</plist>
